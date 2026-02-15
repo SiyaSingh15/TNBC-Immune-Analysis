@@ -54,7 +54,7 @@ A logistic regression classifier was trained to predict TNBC status from immune 
 
 ## Author
 
-Siya Singh
-IISER Tirupati
+Siya Singh - 
+IISER Tirupati - 
 (Student bioinformatics project)
 
